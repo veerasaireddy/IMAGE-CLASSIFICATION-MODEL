@@ -75,3 +75,7 @@ The notebook is modular, well-commented, and ready for submission as part of the
 This task offered valuable experience in building deep learning models for image classification. It provided hands-on exposure to TensorFlow, data preprocessing techniques, CNN architecture design, and model evaluation. By working through this task, I developed a deeper understanding of how CNNs learn spatial hierarchies in image data and how they are trained for real-world image recognition problems. This foundational project sets the stage for more complex computer vision applications in the future.
 
 
+
+### OUTPUT  :
+
+<img width="1039" alt="Image" src="https://github.com/user-attachments/assets/2c8ea687-8ff7-46e2-908a-f57841e36341" />
